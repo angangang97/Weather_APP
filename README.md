@@ -1,13 +1,6 @@
-# Laravel Weather App
+# Sample Weather App
 
 ## Installation
-
-Clone the repo locally:
-
-```sh
-git clone https://github.com/propanto/laravel-weather-app.git
-cd laravel-weather-app
-```
 
 Install PHP dependencies:
 
@@ -31,6 +24,7 @@ Setup configuration:
 
 ```sh
 cp .env.example .env
+Change your .env details to be able to connect to local database
 ```
 
 Generate application key:
