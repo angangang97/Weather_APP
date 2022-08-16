@@ -44,3 +44,12 @@ Run the dev server (the output will give the address):
 ```sh
 php artisan serve
 ```
+
+Steps to access
+```sh
+1. Register an account
+2. Login using that account
+3. Enter Dashboard -> Weather 
+4. Search a location and then add it into the list.
+5. Can remove the list and then REFRESH.
+```
